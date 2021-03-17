@@ -1,3 +1,3 @@
 # HeavenTaker
-Projekt zespołowy
+Group Project for studies. 
 My Job - Scripts, BugFix, Mechanics
